@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="naim.test.beta">
+
+    <application
+
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".special.VideoSpecial"
+            android:theme="@style/NoActionBar"
+            android:parentActivityName=".special.VideoSpecial"
+            tools:targetApi="jelly_bean" />
+        <activity
+            android:name=".special.SpecialImageView"
+            android:theme="@style/NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".special.DetailSpecial"
+            android:theme="@style/NoActionBar"
+            android:parentActivityName=".special.DetailSpecial"
+            tools:targetApi="jelly_bean"/>
+
+        <activity
+            android:name=".special.Special"
+            android:label="Les recettes spéciales"
+            android:parentActivityName=".special.Special"
+            tools:targetApi="jelly_bean" />
+        <activity
+            android:name=".favori.Favori"
+            android:label="Mes favoris"
+            android:parentActivityName=".favori.Favori"
+            tools:targetApi="jelly_bean" />
+        <activity
+            android:name=".Detail"
+            android:parentActivityName=".Detail"
+            android:theme="@style/NoActionBar"
+            tools:targetApi="jelly_bean" />
+        <activity
+            android:name=".recette.Recettes"
+            android:label="Toutes les recettes"
+            android:parentActivityName=".recette.Recettes"
+            tools:targetApi="jelly_bean" />
+        <activity
+            android:name=".Menu"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingRight="15dp"
+        android:paddingLeft="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/politique_de_confidentialit"
+            android:textColor="#E4EDD8"
+            android:textSize="18sp"
+            app:fontFamily="@font/allan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/le_programmeur_naim_abdelkerim_en_collaboration_avec_le_chef_cuisinier_boustane_abdelkerim_ont_construit_l_application_les_recette_de_bousta_en_tant_qu_application_gratuite_ce_service_est_fourni_gratuitement_et_est_destin_tre_utilis_tel_quel_les_termes_utilis_s_dans_cette_politique_de_confidentialit_ont_la_m_me_signification_que_dans_nos_conditions_g_n_rales_qui_sont_accessibles_aux_recette_de_bousta_sauf_indication_contraire_dans_la_pr_sente_politique_de_confidentialit"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:fontFamily="@font/abel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/donn_es_du_journal"
+            android:textColor="#E4EDD8"
+            android:textSize="18sp"
+            app:fontFamily="@font/allan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Nous tenons à vous informer que chaque fois que vous utilisez notre Service, en cas d'erreur dans l'application, je collecte des données et des informations (via des produits tiers) sur votre téléphone appelées Log Data. Ces données de journal peuvent inclure des informations telles que l'adresse de protocole Internet («IP») de votre appareil, le nom de l'appareil, la version du système d'exploitation, la configuration de l'application lors de l'utilisation de mon service, l'heure et la date de votre utilisation du service et d'autres statistiques."
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:fontFamily="@font/abel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text=" Cookies"
+            android:textColor="#E4EDD8"
+            android:textSize="18sp"
+            app:fontFamily="@font/allan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ceux-ci sont envoyés à votre navigateur à partir des sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:fontFamily="@font/abel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Fournisseurs de services"
+            android:textColor="#E4EDD8"
+            android:textSize="18sp"
+            app:fontFamily="@font/allan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Nous pouvons employer des sociétés tierces et des particuliers pour les raisons suivantes: \n
+
+        * Pour faciliter notre service \n
+         * Pour fournir le service en notre nom etc."
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:fontFamily="@font/abel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Modifications de cette politique de confidentialité"
+            android:textColor="#E4EDD8"
+            android:textSize="18sp"
+            app:fontFamily="@font/allan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Ainsi, il vous est conseillé de consulter cette page périodiquement pour tout changement. Je vous informerai de tout changement en publiant la nouvelle politique de confidentialité sur cette page.Cette politique est en vigueur à compter du 10-2020"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:fontFamily="@font/abel" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Contactez-moi"
+            android:textColor="#E4EDD8"
+            android:textSize="18sp"
+            app:fontFamily="@font/allan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="@string/si_vous_avez_des_questions_ou_des_suggestions_concernant_ma_politique_de_confidentialit_ou_sur_l_application_en_g_n_ral_n_h_sitez_pas_me_contacter_sur_naimdevelopper_gmail_com_je_serai_ravi_de_vous_r_pondre"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            app:fontFamily="@font/abel" />
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,15 @@
+<vector android:height="50dp" android:viewportHeight="512"
+    android:viewportWidth="512" android:width="50dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#d4e1f4" android:pathData="m409,47.956a58.335,58.335 0,1 0,0 112.758,58.344 58.344,0 0,1 0,-112.758z"/>
+    <path android:fillColor="#d4e1f4" android:pathData="m133,199.625a58.331,58.331 0,1 0,0 112.749,58.338 58.338,0 0,1 0,-112.749z"/>
+    <path android:fillColor="#d4e1f4" android:pathData="m409,351.286a58.335,58.335 0,1 0,0 112.758,58.344 58.344,0 0,1 0,-112.758z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="m385.554,79.382a26.283,26.283 0,0 1,8.446 -1.382v-12a38.255,38.255 0,0 0,-12.294 2.016z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="m355.667,104.333h12a26.36,26.36 0,0 1,11.393 -21.688l-6.819,-9.875a38.363,38.363 0,0 0,-16.574 31.563z"/>
+    <path android:fillColor="#1ae5be" android:pathData="m167.379,225.745l172.093,-99.048l5.988,10.404l-172.093,99.048z"/>
+    <path android:fillColor="#1ae5be" android:pathData="m154.388,207.835l178.835,-102.928l5.988,10.404l-178.835,102.928z"/>
+    <path android:fillColor="#1ae5be" android:pathData="m154.389,304.176l5.988,-10.404l178.934,102.985l-5.988,10.404z"/>
+    <path android:fillColor="#1ae5be" android:pathData="m167.783,286.486l5.988,-10.404l171.98,98.983l-5.988,10.404z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="m394,168.667a64.334,64.334 0,1 0,-64.333 -64.334,64.406 64.406,0 0,0 64.333,64.334zM394,52a52.334,52.334 0,1 1,-52.333 52.333,52.393 52.393,0 0,1 52.333,-52.333z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="m394,343.333a64.334,64.334 0,1 0,64.333 64.334,64.406 64.406,0 0,0 -64.333,-64.334zM394,460a52.334,52.334 0,1 1,52.333 -52.333,52.393 52.393,0 0,1 -52.333,52.333z"/>
+    <path android:fillColor="#FFFFFF" android:pathData="m118,191.667a64.333,64.333 0,1 0,64.333 64.333,64.405 64.405,0 0,0 -64.333,-64.333zM118,308.333a52.333,52.333 0,1 1,52.333 -52.333,52.392 52.392,0 0,1 -52.333,52.333z"/>
+</vector>
